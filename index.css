@@ -1,0 +1,7 @@
+.menu-list {
+    list-style-type: none;
+}
+
+.menu-list li {
+    margin: 0 0 10px 0;
+}
